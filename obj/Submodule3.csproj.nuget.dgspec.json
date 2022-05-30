@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj": {}
+    "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj": {}
   },
   "projects": {
-    "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj": {
+    "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
+        "projectUniqueName": "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
         "projectName": "Submodule3",
-        "projectPath": "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
+        "projectPath": "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
         "packagesPath": "C:\\Users\\Dave\\.nuget\\packages\\",
-        "outputPath": "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\obj\\",
+        "outputPath": "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,9 +53,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

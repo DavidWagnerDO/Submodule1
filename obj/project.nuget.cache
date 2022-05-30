@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISXRyiGcBW2FnAu4s1w8Tlnr2ZdaKYEB0BfL9WyY/PPgeedCZnd0mHoFs4V4QnDzj+Y/blsfzgLUGgoGx+/rrw==",
+  "dgSpecHash": "v87Q/Fi11fh78zucAbs4cBzmjZOH6VkgFJNbZBdIbS8P8lTJZr+nyr3aXjXsIHdwcGn7Kuc6j6D77LSQlXASFw==",
   "success": true,
-  "projectFilePath": "Z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dave\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Dave\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Dave\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dave\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "z:\\EigeneDateien\\Data One\\Submodules\\Submodule3\\Submodule3.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
